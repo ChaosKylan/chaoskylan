@@ -42,7 +42,7 @@ Die App wird mit **React Native** und **Expo** entwickelt, um eine benutzerfreun
 | Bereich       | Technologien                  |
 |--------------|-------------------------------|
 | Frontend     | React.js, React Native, HTML5, CSS3, SCss |
-| Backend      | Node.js, Express.js, PHO, C#          |
+| Backend      | Node.js, Express.js, PHP, C#          |
 | Datenbanken  | MongoDB, MySql, msSql Sqlite           |
 | GameDev      | Phaser.js                   |
 | Tools        | Git, Expo, VS Code   |
